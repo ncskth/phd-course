@@ -4,6 +4,9 @@
 format: jb-book
 root: intro
 chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+- file: module1/index
+  sections:
+  - file: module1/neurons
+  - file: module1/simulators
+- file: module2/index
+- file: material
