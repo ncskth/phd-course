@@ -1,1 +1,1 @@
-# Computing with neurons
+# 1. Computing with neurons

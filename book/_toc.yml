@@ -4,9 +4,10 @@
 format: jb-book
 root: intro
 chapters:
-- file: module1/index
-  sections:
-  - file: module1/neurons
-  - file: module1/simulators
+- file: module1/neurons
 - file: module2/index
+- file: module3/index
+- file: module4/index
+- file: module5/index
+- file: module6/index
 - file: material

@@ -1,1 +1,1 @@
-# Learning with neurons
+# 2. Learning in neural systems
