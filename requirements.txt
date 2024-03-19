@@ -1,0 +1,4 @@
+matplotlib
+norse
+numpy
+torch
