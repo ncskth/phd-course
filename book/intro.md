@@ -1,4 +1,4 @@
-# Solving problems with neuro-inspired computation
+# Solving engineering problems with neuro-inspired computation
 
 A course on neuro-inspired computation for every-day problems with a focus on perception, reasoning, and actuation.
 
