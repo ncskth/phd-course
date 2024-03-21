@@ -3,7 +3,7 @@
 A course on neuro-inspired computation for every-day problems with a focus on perception, reasoning, and actuation.
 
 ## Course description
-We presents *neuromorphic* engineering as a novel approach to computational systems that draw inspiration from nervous systems to process information in space and time.
+We present *neuromorphic* engineering as a novel approach to computational systems that draw inspiration from nervous systems to process information in space and time.
 We wish to arm students with the theoretical background necessary to intuit about spatio-temporal computation in neurons, but immediately apply that insight in practice.
 Concretely, we discuss computational models and learning in decentralized and parallel neural systems, present state-of-the-art neuromorphic software and hardware platforms, and introduce neuromorphic sensors and robots.
 
