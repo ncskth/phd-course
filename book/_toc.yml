@@ -10,6 +10,11 @@ chapters:
   - file: module1/simulators
   - file: module1/project
 - file: module2/index
+  sections:
+  - file: module2/learning
+  - file: module2/supervised
+  # - file: module2/unsupervised
+  - file: module2/project
 - file: module3/index
 - file: module4/index
 - file: module5/index
