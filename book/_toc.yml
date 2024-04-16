@@ -16,6 +16,8 @@ chapters:
   # - file: module2/unsupervised
   - file: module2/project
 - file: module3/index
+  sections:
+  - file: module3/Temporal_dynamics
 - file: module4/index
 - file: module5/index
 - file: module6/index
