@@ -2,3 +2,5 @@ matplotlib
 norse
 numpy
 torch
+samna
+sinabs
