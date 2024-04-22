@@ -22,7 +22,7 @@ chapters:
   - file: module3/project
 - file: module4/index
   sections:
-  - file: module4/Speck_tutorial
+  - file: module4/Speck
 - file: module5/index
 - file: module6/index
 - file: material
