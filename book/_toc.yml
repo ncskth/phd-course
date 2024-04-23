@@ -23,6 +23,7 @@ chapters:
 - file: module4/index
   sections:
   - file: module4/Speck
+  - file: module4/Speck_project
 - file: module5/index
 - file: module6/index
 - file: material
